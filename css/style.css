@@ -1,0 +1,30 @@
+h1 {
+  color: aquamarine;
+  font-style: italic;
+  font-size: 175%;
+}
+h2 {
+  color: blue;
+  font-size: 175%;
+  font-style: italic;
+}
+h3 {
+  color: skyblue;
+  font-size: 175%;
+  font-style: italic;
+}
+h4 {
+  color: royalblue;
+  font-size: 175%;
+  font-style: italic;
+}
+
+.column {
+  width: 350px;
+  float: right;
+}
+.sidebar {
+    width: 30%;
+    float: right;
+
+}
