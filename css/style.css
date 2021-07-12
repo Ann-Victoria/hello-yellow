@@ -1,3 +1,10 @@
+body {
+  background-color: slategrey;
+}
+p {
+  font-family: fantasy;
+  color: beige;
+}
 h1 {
   color: aquamarine;
   font-style: italic;
